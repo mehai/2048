@@ -19,5 +19,5 @@ The game has a simplistic AI : if you do not make a move for 2 seconds, the game
 
 ### Screenshots
 
-![screenshot](https://imgur.com/qpNL8aZ)
-![screenshot](https://imgur.com/kGNJoJU)
+![screenshot](https://imgur.com/3OsUM48)
+![screenshot](https://imgur.com/EO3zarY)
