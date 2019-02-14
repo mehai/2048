@@ -14,10 +14,12 @@ make run
 ```
 ### Fun facts
 This was my first EVER programming project. I am aware that the coding style and the implementation is not that good.
+
 The language that you can find in some of the game instructions and in the code comments is Romanian (sorry for that).
+
 The game has a simplistic AI : if you do not make a move for 2 seconds, the game will make the move for you so that the most squares will be freed.
 
 ### Screenshots
 
-![screenshot](https://imgur.com/3OsUM48)
-![screenshot](https://imgur.com/EO3zarY)
+![screenshot](https://imgur.com/3OsUM48.png)
+![screenshot](https://imgur.com/EO3zarY.png)
